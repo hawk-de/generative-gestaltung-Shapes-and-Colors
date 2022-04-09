@@ -1,0 +1,2 @@
+entrypoint = "index.js"
+language = "nodejs-16_x"
