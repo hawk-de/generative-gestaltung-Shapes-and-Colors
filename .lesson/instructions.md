@@ -1,10 +1,5 @@
 # Instructions  
 
-1. Get familiar with the replit.com environment
-2. Get familiar with the p5js.org documentation
-3. Get familiar with the P5 syntax
-4. Get familiar with the P5 environment: `canvas`, drawing order, built in variables like `height` and `width` 
-
 ## Form
 
 1. Learn about shapes https://p5js.org/reference/#group-Shape
@@ -19,3 +14,16 @@
 3. What is the difference between `RGB` and `HSL`
 4. How to create colors in `HSL`?
 5. Alter colors using `hue`, `saturation` and `lightness`
+
+## Homework
+
+- Create a analogous color schema
+- Create a complementary color schema
+- Create a triadic color schema
+- Create a tetradic color schema
+- and arrange them in one sketch
+
+Bonus
+
+- Explore `lerpColor`
+- Create your own definition for a color theme e.g.: monochromatic + complementary or tbd
